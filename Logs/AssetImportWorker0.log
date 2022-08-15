@@ -161,3 +161,11 @@ Received Import Request.
 Start importing Assets/Scripts/Menus/RoomLobbyController.cs using Guid(4804fdf2b82e41578a3d6cd7500334d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71324dda85f946901ea35b21930ae95') in 0.006899 seconds 
   Import took 0.011764 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1245.825809 seconds.
+  path: Assets/Scripts/Menus/SettingsController.cs
+  artifactKey: Guid(027d24db346f4f02901aec9089e746a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menus/SettingsController.cs using Guid(027d24db346f4f02901aec9089e746a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb2d18b17ecf7c72f73c8668b2cf7ee') in 0.008181 seconds 
+  Import took 0.012783 seconds .
+
